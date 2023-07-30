@@ -1,0 +1,17 @@
+{
+    "server1": {
+        "ip": "192.168.0.23",
+        "password": "123452",
+        "region": "AWS North Virginia"
+    },
+    "server2": {
+        "ip": "172.68.25.214",
+        "password": "1234562323332",
+        "region": "AWS North Virginia",
+        "server3": {
+            "ip": "172.68.23.21",
+            "password": "1234562332",
+            "region": "AWS North Virginia"
+        }
+    }
+}
