@@ -1,9 +1,9 @@
 from email.message import EmailMessage
 import smtplib
-sender_email="muhammadosama0121@gmail.com"
-reciever_email="i9460131@gmail.com"
-manager_email="usa353642@gmail.com"
-token="pvvdjfuksgosoysh"
+sender_email=""
+reciever_email=""
+manager_email=""
+token=""
 #setting up email structure 
 msg=EmailMessage()
 msg["Subject"]="Alert from Nagios server!"
